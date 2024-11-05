@@ -1,1 +1,3 @@
-# summative_assignment
+# Summative assignment
+
+Linear Regression, Random Forest and Decision Trees
